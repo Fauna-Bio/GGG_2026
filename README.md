@@ -1,2 +1,5 @@
-# GGG_2026
-Sample size estimation for DESeq2
+# *DEPower*: approximate power analysis with *DESeq2*
+
+This repository accompanies a manuscript that describes how the *DESeq2* model can be solved, under conventional assumptions, to enable back-of-the-envelope samples size calculations for experiment design.
+
+In `gg_260121_robichaud_demo`, we show the impact of these assumptions on the analysis of a thirteen-lined ground squirrel dataset and demonstrate that the approximation produces reasonable results consistent with a full analysis.
